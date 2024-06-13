@@ -1,3 +1,24 @@
 {
-    "$schema": "https://inlang.com/schema/inlang-message-format"
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "title": "Meta-Qestions",
+    "abstract": "A \"meta-question\" is a qestion about a question, like \"May I ask something?\" or \"Does anybody\tknow about computers?\".",
+    "explanation": "\t\t\tHowever, the term meta-question is usually generalised and used to describe all questions that\n\t\t\tare not a direct question about the problem of the person seeking help. The person seeking\n\t\t\thelp therefore initially asks in general terms whether someone can help. Newcomers or\n\t\t\tinexperienced users in particular are tempted to ask meta questions in order to find a\n\t\t\tcompetent and helpful contact person. In most cases, meta-questions are ignored or the\n\t\t\tquestioner is rudely told that nobody can help them with their problem without knowing it. As\n\t\t\ta rule, a meta-question is followed by another question.\n",
+    "benefits": "Benefits of Meta-Questions",
+    "Disadvantages": "Disadvantages of Meta-Questions",
+    "examples": "Examples",
+    "languages": "Available languages",
+    "benefit_1": "A polite way to gain attention",
+    "benefit_2": "Start of an initially one-sided conversation (general problem analysis)",
+    "disadvantage_1": "Those present could possibly help with the problem, although they would not claim to be\n\t\t\t\tfamiliar with the subject (perhaps out of modesty).",
+    "disadvantage_2": "The meta-question is often formulated incorrectly, e.g. the question \"Does anyone know\n\t\t\t\tanything about cooking?\" and he only wants to know whether mangoes are edible.",
+    "disadvantage_3": "Even if someone is familiar with the topic in question, this does not mean that they can\n\t\t\t\tanswer a specific question about it - nobody is omniscient",
+    "disadvantage_4": "If there is no reaction to the meta-question, the questioner usually leaves it at that. This\n\t\t\t\tmeans that an answer to the problem cannot be given by those who become aware of it later.",
+    "example_1": "Does anyone know anything about computers?",
+    "example_2": "Can someone help me?",
+    "example_3": "Can I have a word with you?",
+    "example_4": "Can I ask you something?",
+    "example_5": "Can anyone help me with FTP servers?",
+    "example_6": "\"Is there anyone here who knows anything about divorces?",
+    "example_7": "Do you have time?",
+    "example_8": "Can you come here sometime?"
 }
