@@ -1,6 +1,6 @@
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
-	"title": "Meta-Qestions",
+	"title": "Meta-Questions",
 	"abstract": "A \"meta-question\" is a qestion about a question, like \"May I ask something?\" or \"Does anybody\tknow about computers?\".",
 	"explanation": "\t\t\tHowever, the term meta-question is usually generalised and used to describe all questions that\n\t\t\tare not a direct question about the problem of the person seeking help. The person seeking\n\t\t\thelp therefore initially asks in general terms whether someone can help. Newcomers or\n\t\t\tinexperienced users in particular are tempted to ask meta questions in order to find a\n\t\t\tcompetent and helpful contact person. In most cases, meta-questions are ignored or the\n\t\t\tquestioner is rudely told that nobody can help them with their problem without knowing it. As\n\t\t\ta rule, a meta-question is followed by another question.\n",
 	"benefits": "Benefits of Meta-Questions",
